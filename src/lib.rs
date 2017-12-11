@@ -4,7 +4,7 @@
 //! dox (placeholder)
 
 extern crate byteorder;
-extern crate rand;
+//extern crate rand;
 
 #[macro_use]
 extern crate log;
